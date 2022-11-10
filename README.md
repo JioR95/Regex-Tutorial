@@ -23,14 +23,6 @@ Using regular expressions, you can perform advanced search patterns within strin
 
 ## Regex Components
 
-- * - Match zero times.
-- *? - Match more times.
-- + - Match one time
-- +? - Match more times
-- ? - Match zero
-- ?? - Match more times
-
-
 ### Anchors
 
 Anchors are a different breed, they are used in order to match a position before, after, or between characters. 
@@ -39,6 +31,13 @@ Anchors are a different breed, they are used in order to match a position before
 - $ - is goig to specify the end.
 
 ### Quantifiers
+
+- * - Match zero times.
+- *? - Match more times.
+- + - Match one time
+- +? - Match more times
+- ? - Match zero
+- ?? - Match more times
 
 ### OR Operator
 
